@@ -73,6 +73,6 @@ This lab provided hands-on experience with AWS IAM by demonstrating how organiza
 
 
 ## Author
-**Name:** Sushil Shiva R (212224250017)
+**Name:** kiren siddharath d 212224250009
 **Course:** Introduction to Cloud Computing  
 
