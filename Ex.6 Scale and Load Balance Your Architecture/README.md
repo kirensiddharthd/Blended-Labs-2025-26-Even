@@ -1,6 +1,6 @@
 # Lab 6 – Scale and Load Balance Your Architecture
-## Name: Sushil Shiva R
-## Register Number: 212224250017
+## Name: Kiren Siddharath D
+## Register Number: 212224250009
 
 ## Title
 
